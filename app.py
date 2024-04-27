@@ -21,7 +21,8 @@ DEFAULT_VOICE = {
     'Yunxi-云希': 'zh-CN-YunxiNeural',
     'Yunxia-云夏': 'zh-CN-YunxiaNeural',
     'liaoning-Xiaobei-晓北辽宁': 'zh-CN-liaoning-XiaobeiNeural',
-    'shaanxi-Xiaoni-陕西晓妮': 'zh-CN-shaanxi-XiaoniNeural'
+    'shaanxi-Xiaoni-陕西晓妮': 'zh-CN-shaanxi-XiaoniNeural',
+    'Eric': 'en-US-EricNeural'
 }
 
 MAX_SEGMENT_LENGTH = 1000  # 设置每个文本段的最大长度
